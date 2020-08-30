@@ -1,0 +1,10 @@
+# Coverage & test logs
+/coverage
+
+# Client-specific stuff
+.curseclient
+/mods
+/logs
+/resourcepacks
+/saves
+options.txt
