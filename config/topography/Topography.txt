@@ -1,0 +1,9 @@
+// Sets if the mod should print documentation.
+printDocumentation(false)
+
+// Sets the Topography WorldType as default
+setAsDefaultWorldType()
+
+// Name, Image Path, Description
+initialSkyIsland = registerPreset("Initial Sky Island", "generators/Initial_Sky_Island", "Description here!")
+initialSkyIsland.registerDimension(0, "generators/Initial_Sky_Island")

@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-08-30T21:19:17.4683931Z",
+  "lastPlayed": "2020-08-30T22:05:35.7182288Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -44,9 +44,55 @@
   "gameTypeID": 432,
   "installPath": "E:\\Twitch\\Minecraft\\Instances\\The Spawn Islands\\",
   "name": "The Spawn Islands",
-  "cachedScans": [],
+  "cachedScans": [
+    {
+      "folderName": "BNBGamingCore-1.12.2-0.12.0.jar",
+      "fingerprint": 1511850695,
+      "fileDateHash": 2548106706,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1511850695
+      ],
+      "status": 1,
+      "timestamp": "2020-08-30T21:32:11.7375732Z",
+      "lastWriteTimeUtc": "2020-08-30T21:32:01.4889741Z",
+      "queryTimestamp": "2020-08-30T21:32:12.1088892Z",
+      "fileCount": 1,
+      "fileSize": 139568
+    },
+    {
+      "folderName": "Topography-1.12.2-1.14.2.jar",
+      "fingerprint": 3245075535,
+      "fileDateHash": 2693784850,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3245075535
+      ],
+      "status": 1,
+      "timestamp": "2020-08-30T21:32:11.7575709Z",
+      "lastWriteTimeUtc": "2020-08-30T21:32:06.3364855Z",
+      "queryTimestamp": "2020-08-30T21:32:12.1088892Z",
+      "fileCount": 1,
+      "fileSize": 3980990
+    },
+    {
+      "folderName": "BNBGamingLib-1.12.2-2.17.6.jar",
+      "fingerprint": 1245112832,
+      "fileDateHash": 2949909579,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1245112832
+      ],
+      "status": 1,
+      "timestamp": "2020-08-30T21:32:11.7485742Z",
+      "lastWriteTimeUtc": "2020-08-30T21:32:00.4315492Z",
+      "queryTimestamp": "2020-08-30T21:32:12.1088892Z",
+      "fileCount": 1,
+      "fileSize": 132644
+    }
+  ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "0001-01-01T00:00:00",
+  "lastPreviousMatchUpdate": "2020-08-30T21:32:12.6675316Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -68,7 +114,238 @@
   },
   "preferenceShowAddOnInfo": true,
   "installDate": "2020-08-30T21:08:04.5993072Z",
-  "installedAddons": [],
+  "installedAddons": [
+    {
+      "addonID": 229587,
+      "gameInstanceID": "a6a91ddd-e6e4-4a27-abad-0ca2d0e0bfd3",
+      "installedFile": {
+        "id": 2698688,
+        "displayName": "BNBGamingLib 1.12-2.17.6",
+        "fileName": "BNBGamingLib-1.12.2-2.17.6.jar",
+        "fileDate": "2019-04-13T16:49:31.17Z",
+        "fileLength": 132644,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2698/688/BNBGamingLib-1.12.2-2.17.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1562242874,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1979863911,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2340877875,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3747149291,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1245112832,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BNBGamingLib-1.12.2-2.17.6.jar"
+      },
+      "dateInstalled": "2020-08-30T21:32:00.4405459Z",
+      "dateUpdated": "2020-08-30T21:32:00.4425455Z",
+      "dateLastUpdateAttempted": "2020-08-30T21:32:00.4425455Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 274341,
+      "gameInstanceID": "a6a91ddd-e6e4-4a27-abad-0ca2d0e0bfd3",
+      "installedFile": {
+        "id": 2991671,
+        "displayName": "BNBGamingCore 1.12-0.12.0",
+        "fileName": "BNBGamingCore-1.12.2-0.12.0.jar",
+        "fileDate": "2020-06-29T01:31:00.627Z",
+        "fileLength": 139568,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2991/671/BNBGamingCore-1.12.2-0.12.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1580782731,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3270690560,
+            "type": 0
+          },
+          {
+            "foldername": "squeek",
+            "fingerprint": 1305795079,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3520107738,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1511850695,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BNBGamingCore-1.12.2-0.12.0.jar"
+      },
+      "dateInstalled": "2020-08-30T21:32:01.4979731Z",
+      "dateUpdated": "2020-08-30T21:32:01.4999701Z",
+      "dateLastUpdateAttempted": "2020-08-30T21:32:01.4999701Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 297878,
+      "gameInstanceID": "a6a91ddd-e6e4-4a27-abad-0ca2d0e0bfd3",
+      "installedFile": {
+        "id": 2991687,
+        "displayName": "Topography 1.12-1.14.2",
+        "fileName": "Topography-1.12.2-1.14.2.jar",
+        "fileDate": "2020-06-29T01:49:12.87Z",
+        "fileLength": 3980990,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2991/687/Topography-1.12.2-1.14.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 229587,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 274341,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3654299340,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 813474589,
+            "type": 0
+          },
+          {
+            "foldername": "defaultconfigs",
+            "fingerprint": 1058812968,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2567093093,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 218528269,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3245075535,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Topography-1.12.2-1.14.2.jar"
+      },
+      "dateInstalled": "2020-08-30T21:32:06.350482Z",
+      "dateUpdated": "2020-08-30T21:32:06.3724443Z",
+      "dateLastUpdateAttempted": "2020-08-30T21:32:06.3724443Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    }
+  ],
   "isMigrated": false,
   "preferenceUploadProfile": false
 }
