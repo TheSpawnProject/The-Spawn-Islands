@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-08-30T23:40:17.3403164Z",
+  "lastPlayed": "2020-08-31T00:17:20.5464556Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -45,6 +45,21 @@
   "installPath": "E:\\Twitch\\Minecraft\\Instances\\The Spawn Islands\\",
   "name": "The Spawn Islands",
   "cachedScans": [
+    {
+      "folderName": "CraftTweaker2-1.12-4.1.20.586.jar",
+      "fingerprint": 90565211,
+      "fileDateHash": 1604004932,
+      "sectionID": 8,
+      "individualFingerprints": [
+        90565211
+      ],
+      "status": 1,
+      "timestamp": "2020-08-31T00:00:25.9253384Z",
+      "lastWriteTimeUtc": "2020-08-31T00:00:13.3019301Z",
+      "queryTimestamp": "2020-08-31T00:00:26.4789725Z",
+      "fileCount": 1,
+      "fileSize": 1438517
+    },
     {
       "folderName": "New World--",
       "fingerprint": 677033016,
@@ -64,45 +79,45 @@
     {
       "folderName": "BNBGamingCore-1.12.2-0.12.0.jar",
       "fingerprint": 1511850695,
-      "fileDateHash": 2511250685,
+      "fileDateHash": 954923183,
       "sectionID": 8,
       "individualFingerprints": [
         1511850695
       ],
       "status": 1,
-      "timestamp": "2020-08-30T23:40:06.9253514Z",
-      "lastWriteTimeUtc": "2020-08-30T23:36:44.0994996Z",
-      "queryTimestamp": "2020-08-30T23:40:07.7844648Z",
+      "timestamp": "2020-08-31T00:00:25.923351Z",
+      "lastWriteTimeUtc": "2020-08-30T23:56:43.3994418Z",
+      "queryTimestamp": "2020-08-31T00:00:26.4789725Z",
       "fileCount": 1,
       "fileSize": 139568
     },
     {
       "folderName": "Topography-1.12.2-1.14.2.jar",
       "fingerprint": 3245075535,
-      "fileDateHash": 3667789353,
+      "fileDateHash": 195389555,
       "sectionID": 8,
       "individualFingerprints": [
         3245075535
       ],
       "status": 1,
-      "timestamp": "2020-08-30T23:40:06.9293499Z",
-      "lastWriteTimeUtc": "2020-08-30T23:36:49.1580462Z",
-      "queryTimestamp": "2020-08-30T23:40:07.7844648Z",
+      "timestamp": "2020-08-31T00:00:25.9483318Z",
+      "lastWriteTimeUtc": "2020-08-30T23:56:48.7132546Z",
+      "queryTimestamp": "2020-08-31T00:00:26.4789725Z",
       "fileCount": 1,
       "fileSize": 3980990
     },
     {
       "folderName": "BNBGamingLib-1.12.2-2.17.6.jar",
       "fingerprint": 1245112832,
-      "fileDateHash": 2740992224,
+      "fileDateHash": 2655032650,
       "sectionID": 8,
       "individualFingerprints": [
         1245112832
       ],
       "status": 1,
-      "timestamp": "2020-08-30T23:40:06.9273504Z",
-      "lastWriteTimeUtc": "2020-08-30T23:36:42.5828822Z",
-      "queryTimestamp": "2020-08-30T23:40:07.7844648Z",
+      "timestamp": "2020-08-31T00:00:25.9243384Z",
+      "lastWriteTimeUtc": "2020-08-30T23:56:42.5593849Z",
+      "queryTimestamp": "2020-08-31T00:00:26.4789725Z",
       "fileCount": 1,
       "fileSize": 132644
     }
@@ -131,6 +146,83 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2020-08-30T23:02:17.8482638Z",
   "installedAddons": [
+    {
+      "addonID": 239197,
+      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
+      "installedFile": {
+        "id": 3040575,
+        "displayName": "CraftTweaker2-1.12-4.1.20.586.jar",
+        "fileName": "CraftTweaker2-1.12-4.1.20.586.jar",
+        "fileDate": "2020-08-24T02:35:40.933Z",
+        "fileLength": 1438517,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3040/575/CraftTweaker2-1.12-4.1.20.586.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4144250242,
+            "type": 0
+          },
+          {
+            "foldername": "stanhebben",
+            "fingerprint": 1139667142,
+            "type": 0
+          },
+          {
+            "foldername": "crafttweaker",
+            "fingerprint": 2915316874,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2249719731,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2458517208,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3209782606,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 90565211,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.20.586.jar"
+      },
+      "dateInstalled": "2020-08-31T00:00:13.3155313Z",
+      "dateUpdated": "2020-08-31T00:00:13.3225303Z",
+      "dateLastUpdateAttempted": "2020-08-31T00:00:13.3225303Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
     {
       "addonID": 229587,
       "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
@@ -219,6 +311,217 @@
       "dateUpdated": "2019-08-30T23:29:34.9244887Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 79153,
+      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
+      "installedFile": {
+        "id": 788266,
+        "displayName": "Raining_Ores_mod.js",
+        "fileName": "Raining_Ores_mod.js",
+        "fileDate": "2014-04-30T03:56:20.353Z",
+        "fileLength": 0,
+        "releaseType": 1,
+        "fileStatus": 5,
+        "downloadUrl": "https://edge.forgecdn.net/files/788/266/Raining_Ores_mod.js",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": false,
+        "modules": [],
+        "packageFingerprint": 1540447798,
+        "gameVersion": [
+          "1.14.4"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000014.0000000004",
+            "gameVersion": "1.14.4",
+            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
+            "gameVersionName": "1.14.4"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 5,
+        "renderCacheId": 20378,
+        "projectId": 79153,
+        "packageFingerprintId": 3414263,
+        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
+        "gameVersionMappingId": 1886522,
+        "gameVersionId": 7469,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "BNBGamingCore-1.12.2-0.12.0.jar"
+      },
+      "dateInstalled": "2020-08-30T23:17:07.1933662Z",
+      "dateUpdated": "2019-08-30T23:17:07.1933662Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 312683,
+      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
+      "installedFile": {
+        "id": 2984104,
+        "displayName": "probe-0.1.24",
+        "fileName": "probe-0.1.24.jar",
+        "fileDate": "2020-06-20T01:49:19.583Z",
+        "fileLength": 28813,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2984/104/probe-0.1.24.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 239197,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2878438882,
+            "type": 0
+          },
+          {
+            "foldername": "cn",
+            "fingerprint": 4240958037,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1027590426,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3909654686,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "probe-0.1.24.jar"
+      },
+      "dateInstalled": "2020-08-31T00:05:10.6335514Z",
+      "dateUpdated": "2020-08-31T00:05:10.6345507Z",
+      "dateLastUpdateAttempted": "2020-08-31T00:05:10.6345507Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
+      "installedFile": {
+        "id": 3040523,
+        "displayName": "jei_1.12.2-4.16.1.301.jar",
+        "fileName": "jei_1.12.2-4.16.1.301.jar",
+        "fileDate": "2020-08-24T01:01:39.123Z",
+        "fileLength": 653211,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3040/523/jei_1.12.2-4.16.1.301.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2236405288,
+            "type": 0
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 2222830911,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1488642189,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3528499262,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 9943101,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3089143260,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei_1.12.2-4.16.1.301.jar"
+      },
+      "dateInstalled": "2020-08-31T00:05:09.6619775Z",
+      "dateUpdated": "2020-08-31T00:05:09.6655609Z",
+      "dateLastUpdateAttempted": "2020-08-31T00:05:09.6655609Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
