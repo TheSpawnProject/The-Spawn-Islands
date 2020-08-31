@@ -2,5 +2,10 @@
 - BNBGamingCore-1.12.2-0.12.0.jar
 - BNBGamingLib-1.12.2-2.17.6.jar
 - CraftTweaker2-1.12-4.1.20.586.jar
+- FTBLib-5.4.7.2.jar
+- FTBQuests-1.9.0.12.jar
+- ItemFilters-1.0.4.2.jar
 - Raining_Ores_mod.js
 - Topography-1.12.2-1.14.2.jar
+- jei_1.12.2-4.16.1.301.jar
+- probe-0.1.24.jar

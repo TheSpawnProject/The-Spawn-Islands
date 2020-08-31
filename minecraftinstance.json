@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-08-31T00:17:20.5464556Z",
+  "lastPlayed": "2020-08-31T00:23:13.0625452Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -147,6 +147,78 @@
   "installDate": "2020-08-30T23:02:17.8482638Z",
   "installedAddons": [
     {
+      "addonID": 309674,
+      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
+      "installedFile": {
+        "id": 3003364,
+        "displayName": "ItemFilters-1.0.4.2.jar",
+        "fileName": "ItemFilters-1.0.4.2.jar",
+        "fileDate": "2020-07-12T22:57:19.817Z",
+        "fileLength": 78935,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3003/364/ItemFilters-1.0.4.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 3003365,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2564698299,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1642162172,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2252439893,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2228728608,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1667646960,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 771895873,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ItemFilters-1.0.4.2.jar"
+      },
+      "dateInstalled": "2020-08-31T00:22:20.5879344Z",
+      "dateUpdated": "2020-08-31T00:22:20.5909336Z",
+      "dateLastUpdateAttempted": "2020-08-31T00:22:20.5909336Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 239197,
       "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
       "installedFile": {
@@ -217,6 +289,356 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 79153,
+      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
+      "installedFile": {
+        "id": 788266,
+        "displayName": "Raining_Ores_mod.js",
+        "fileName": "Raining_Ores_mod.js",
+        "fileDate": "2014-04-30T03:56:20.353Z",
+        "fileLength": 0,
+        "releaseType": 1,
+        "fileStatus": 5,
+        "downloadUrl": "https://edge.forgecdn.net/files/788/266/Raining_Ores_mod.js",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": false,
+        "modules": [],
+        "packageFingerprint": 1540447798,
+        "gameVersion": [
+          "1.14.4"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000014.0000000004",
+            "gameVersion": "1.14.4",
+            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
+            "gameVersionName": "1.14.4"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 5,
+        "renderCacheId": 20378,
+        "projectId": 79153,
+        "packageFingerprintId": 3414263,
+        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
+        "gameVersionMappingId": 1886522,
+        "gameVersionId": 7469,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "BNBGamingCore-1.12.2-0.12.0.jar"
+      },
+      "dateInstalled": "2020-08-30T23:17:07.1933662Z",
+      "dateUpdated": "2019-08-30T23:17:07.1933662Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
+      "installedFile": {
+        "id": 3040523,
+        "displayName": "jei_1.12.2-4.16.1.301.jar",
+        "fileName": "jei_1.12.2-4.16.1.301.jar",
+        "fileDate": "2020-08-24T01:01:39.123Z",
+        "fileLength": 653211,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3040/523/jei_1.12.2-4.16.1.301.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2236405288,
+            "type": 0
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 2222830911,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1488642189,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3528499262,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 9943101,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3089143260,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei_1.12.2-4.16.1.301.jar"
+      },
+      "dateInstalled": "2020-08-31T00:05:09.6619775Z",
+      "dateUpdated": "2020-08-31T00:05:09.6655609Z",
+      "dateLastUpdateAttempted": "2020-08-31T00:05:09.6655609Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 289412,
+      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
+      "installedFile": {
+        "id": 3015063,
+        "displayName": "FTBQuests-1.9.0.12.jar",
+        "fileName": "FTBQuests-1.9.0.12.jar",
+        "fileDate": "2020-07-26T11:30:43.427Z",
+        "fileLength": 1084171,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3015/63/FTBQuests-1.9.0.12.jar",
+        "isAlternate": false,
+        "alternateFileId": 3015064,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 268655,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238086,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 231305,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 309674,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 237167,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 278398,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 237102,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 226410,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 242638,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 221826,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1127185395,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3545543030,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3568940792,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2381346384,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 31854703,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2553775093,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "FTBQuests-1.9.0.12.jar"
+      },
+      "dateInstalled": "2020-08-31T00:22:23.8512546Z",
+      "dateUpdated": "2020-08-31T00:22:23.8655471Z",
+      "dateLastUpdateAttempted": "2020-08-31T00:22:23.8655471Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 274341,
+      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
+      "installedFile": {
+        "id": 2991671,
+        "displayName": "BNBGamingCore 1.12-0.12.0",
+        "fileName": "BNBGamingCore-1.12.2-0.12.0.jar",
+        "fileDate": "2020-06-29T01:31:00.627Z",
+        "fileLength": 139568,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2991/671/BNBGamingCore-1.12.2-0.12.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1580782731,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3270690560,
+            "type": 0
+          },
+          {
+            "foldername": "squeek",
+            "fingerprint": 1305795079,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3520107738,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1511850695,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BNBGamingCore-1.12.2-0.12.0.jar"
+      },
+      "dateInstalled": "2020-08-30T23:15:04.3932888Z",
+      "dateUpdated": "2020-08-30T23:15:04.3942767Z",
+      "dateLastUpdateAttempted": "2020-08-30T23:15:04.3942767Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -322,57 +744,71 @@
       "installedTargets": []
     },
     {
-      "addonID": 79153,
+      "addonID": 237167,
       "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
       "installedFile": {
-        "id": 788266,
-        "displayName": "Raining_Ores_mod.js",
-        "fileName": "Raining_Ores_mod.js",
-        "fileDate": "2014-04-30T03:56:20.353Z",
-        "fileLength": 0,
+        "id": 2985811,
+        "displayName": "FTBLib-5.4.7.2.jar",
+        "fileName": "FTBLib-5.4.7.2.jar",
+        "fileDate": "2020-06-22T13:44:34.15Z",
+        "fileLength": 934370,
         "releaseType": 1,
-        "fileStatus": 5,
-        "downloadUrl": "https://edge.forgecdn.net/files/788/266/Raining_Ores_mod.js",
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2985/811/FTBLib-5.4.7.2.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
+        "alternateFileId": 2985812,
         "dependencies": [],
-        "isAvailable": false,
-        "modules": [],
-        "packageFingerprint": 1540447798,
-        "gameVersion": [
-          "1.14.4"
-        ],
-        "sortableGameVersion": [
+        "isAvailable": true,
+        "modules": [
           {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
+            "foldername": "META-INF",
+            "fingerprint": 2287248055,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 296098662,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2120759837,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1468686229,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1147509493,
+            "type": 0
           }
         ],
+        "packageFingerprint": 957833589,
+        "gameVersion": [
+          "1.12.2"
+        ],
         "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 5,
-        "renderCacheId": 20378,
-        "projectId": 79153,
-        "packageFingerprintId": 3414263,
-        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
-        "gameVersionMappingId": 1886522,
-        "gameVersionId": 7469,
-        "gameId": 432,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "BNBGamingCore-1.12.2-0.12.0.jar"
+        "FileNameOnDisk": "FTBLib-5.4.7.2.jar"
       },
-      "dateInstalled": "2020-08-30T23:17:07.1933662Z",
-      "dateUpdated": "2019-08-30T23:17:07.1933662Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateInstalled": "2020-08-31T00:22:22.4332645Z",
+      "dateUpdated": "2020-08-31T00:22:22.4392629Z",
+      "dateLastUpdateAttempted": "2020-08-31T00:22:22.4392629Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -454,147 +890,6 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 238222,
-      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
-      "installedFile": {
-        "id": 3040523,
-        "displayName": "jei_1.12.2-4.16.1.301.jar",
-        "fileName": "jei_1.12.2-4.16.1.301.jar",
-        "fileDate": "2020-08-24T01:01:39.123Z",
-        "fileLength": 653211,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3040/523/jei_1.12.2-4.16.1.301.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2236405288,
-            "type": 0
-          },
-          {
-            "foldername": "mezz",
-            "fingerprint": 2222830911,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1488642189,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3528499262,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 9943101,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3089143260,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "jei_1.12.2-4.16.1.301.jar"
-      },
-      "dateInstalled": "2020-08-31T00:05:09.6619775Z",
-      "dateUpdated": "2020-08-31T00:05:09.6655609Z",
-      "dateLastUpdateAttempted": "2020-08-31T00:05:09.6655609Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 274341,
-      "gameInstanceID": "ab4acb7d-3b83-42c5-ae1b-3f4cbbb12191",
-      "installedFile": {
-        "id": 2991671,
-        "displayName": "BNBGamingCore 1.12-0.12.0",
-        "fileName": "BNBGamingCore-1.12.2-0.12.0.jar",
-        "fileDate": "2020-06-29T01:31:00.627Z",
-        "fileLength": 139568,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2991/671/BNBGamingCore-1.12.2-0.12.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1580782731,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3270690560,
-            "type": 0
-          },
-          {
-            "foldername": "squeek",
-            "fingerprint": 1305795079,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3520107738,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1511850695,
-        "gameVersion": [
-          "1.12",
-          "1.12.1",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "BNBGamingCore-1.12.2-0.12.0.jar"
-      },
-      "dateInstalled": "2020-08-30T23:15:04.3932888Z",
-      "dateUpdated": "2020-08-30T23:15:04.3942767Z",
-      "dateLastUpdateAttempted": "2020-08-30T23:15:04.3942767Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
